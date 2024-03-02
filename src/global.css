@@ -1,0 +1,19 @@
+html, button, p, h1{
+    font-family: Hack, serif;
+    color:#9290c3;
+}
+
+
+h1 {
+    color: #9290c3;
+    display:inline-block;
+    border-bottom: 2px solid #535c91;
+}
+
+body {
+    background-color: #070F2B;
+}
+
+a{
+    color: #535c91;
+}
