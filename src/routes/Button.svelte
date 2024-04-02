@@ -13,14 +13,9 @@
         border: 3px solid transparent;
         border-right-color: aqua;
         border-left-color: aqua;
-
         transition: border 500ms ease-in;
-
         transform: skew(-5deg);
 
-        & :hover {
-
-        }
 
         & span {
             transform: skew(5deg);
@@ -30,9 +25,6 @@
     button:hover {
         border-top: 3px solid aqua;
         border-bottom: 3px solid aqua;
-
-        /*color: #9290c3;*/
-
     }
 
 </style>

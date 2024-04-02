@@ -2,6 +2,7 @@
     import Navigation from "./Navigation.svelte";
     import Pallete from './Pallete.svelte';
     import Button from "./Button.svelte";
+    import Link from "./Link.svelte";
 </script>
 
 <style>
@@ -84,12 +85,12 @@
                 quod
                 rerum tempore vel, vitae. Facere, iste?</p>
         </section>
+
         <section>
             <h1>Support Us</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto blanditiis consectetur consequuntur
                 doloribus est eveniet odio quia quisquam sit voluptate. Aspernatur culpa placeat quidem reiciendis.</p>
-            <Button>Support Us</Button>
-
+            <Link href="">Support Us</Link>
         </section>
 
     </div>
